@@ -1,5 +1,5 @@
 # Data-Structure-algorithms
-####Data Structure
+#### Data Structure
 ・Static_Array
 ・Dynamic_Array
 ・Linked_List
