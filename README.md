@@ -1,2 +1,7 @@
 # Data-Structure-algorithms
-# This Repository is for my Data Structure and Algorithms Studying
+####Data Structure
+・Static_Array
+・Dynamic_Array
+・Linked_List
+・Stack
+・Queue
