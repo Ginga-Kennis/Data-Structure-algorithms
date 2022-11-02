@@ -5,13 +5,6 @@ class Solution:
         
         for i,elm in enumerate(digits):
             num += elm * (10**(l - i - 1))
-            
-        num += 1
-        output = []
-        for _ in range(len(str(num))):
-            output.append(num % 10)
-            num = num//10
-            
-        return reversed(output)
+        return [int(i) for i in str(num+1) ]
         
         
